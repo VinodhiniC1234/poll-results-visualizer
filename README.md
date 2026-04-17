@@ -70,12 +70,17 @@ Poll-Results-Visualizer/
 
 ---
 
+---
+
 ## 🔮 Future Improvements
 - Build interactive dashboard using Streamlit  
 - Add real-time data integration  
 - Perform sentiment analysis on feedback  
 - Add filtering and advanced analytics  
 - Integrate with APIs  
+
+---
+
 
 ---
 
