@@ -66,6 +66,7 @@ Poll-Results-Visualizer/
 ├── requirements.txt       # List of dependencies (optional)
 └── README.md              # Project documentation
 ```
+```
 
 ---
 
