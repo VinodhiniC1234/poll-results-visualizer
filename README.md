@@ -67,20 +67,11 @@ Poll-Results-Visualizer/
 └── README.md              # Project documentation
 ```
 ```
-
 ---
-
----
-
 ## 🔮 Future Improvements
-
-- Build an interactive dashboard using Streamlit  
+- Build interactive dashboard using Streamlit  
 - Add real-time data integration  
-- Perform sentiment analysis on textual feedback  
-- Implement advanced filtering and analytics  
-- Integrate APIs for live polling data  
+- Perform sentiment analysis on feedback  
+- Add filtering and advanced analytics  
+- Integrate with APIs  
 ---
-
-
----
-
