@@ -52,7 +52,6 @@ It helps in understanding user preferences, trends, and patterns through simple 
 
 ---
 
-## 📁 Project Structure
 Poll-Results-Visualizer/
 │
 ├── data/                  # Contains input dataset (CSV files)
