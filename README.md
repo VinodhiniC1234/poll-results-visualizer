@@ -52,6 +52,9 @@ It helps in understanding user preferences, trends, and patterns through simple 
 
 ---
 
+## 📁 Project Structure
+
+```plaintext
 Poll-Results-Visualizer/
 │
 ├── data/                  # Contains input dataset (CSV files)
@@ -62,6 +65,7 @@ Poll-Results-Visualizer/
 ├── main.py                # Main Python script for analysis
 ├── requirements.txt       # List of dependencies (optional)
 └── README.md              # Project documentation
+```
 
 ---
 
